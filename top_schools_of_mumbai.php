@@ -19,15 +19,16 @@
 		</div>
 	</div>
 
-	</div>	<!-- container fluid ends here  -->
+	</div>	<!-- container fluid ends here  --> 
 
 
 
 	<!-- Filters Code Here -->
+	<div class="container-fluid">
 	<div class="row">
-		<div class="col-md-4" style="background-color: #f7f7f7; height: 700px; font-family: 'felipa',cursive; min-width: 222px; max-width: 360px; ">
+		<div class="col-md-4 sticky-top"  style="background-color: #f7f7f7; position: sticky;  font-family: 'felipa',cursive; min-width: 222px; max-height: 680px; max-width: 360px; ">
 			<h5 style="text-align: center; font-size: 25px; font-style: italic; margin-top: 15px; text-decoration: underline;">Create Your Children Future</h5>
-			<div class="filters">
+			<div class="filters " >
 
 				<br>
 				<h5 id="filter_name">Type of School</h5>
@@ -59,7 +60,7 @@
 		<!-- Filters Ends Code Here -->
 
 		<!-- Schools in Mumbai Start -->
-		<div class="col-md-8">
+		<div class="col-md-8" style="">
 			<h2 style="text-align: center; margin-top: 20px; color: #d8914b; font-size: 40px;">Top Schools Of Mumbai, Maharashtra</h2>
 			<div class="container" style="margin-top: 50px; background-color: #f7f7f7;">
 				<div class="container-fluid row">
@@ -236,6 +237,8 @@
 		
 		</div>
 	</div>
+</div>
+</div>
 	<!-- Schools in Mumbai Ends -->
 	
 
