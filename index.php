@@ -31,74 +31,74 @@
 
 			<div class="container" style="position: relative; top: 20px;">
 				<div class="row">
-					<div class="col-md-4 col-sm-6 col-12" style="margin-top: 15px;">
+					<div class="col-md-6 col-sm-6 col-lg-4 col-xl-4" style="margin-top: 15px;">
 						<a href="top_schools_of_mumbai.php">
 							<img src="img/top_schools_of_mumbai.png" class="img-fluid city_outline">
 						</a>			
 					</div>
 
-					<div class="col-md-4 col-sm-6 col-12" style="margin-top: 15px;">
+					<div class="col-md-6 col-sm-6 col-lg-4 col-xl-4" style="margin-top: 15px;">
 						<a href="top_schools_of_chennai.php">
 							<img src="img/top_schools_of_chennai.png" class="img-fluid city_outline">
 						</a>
 					</div>
 
-					<div class="col-md-4 col-sm-6 col-12" style="margin-top: 15px;">
+					<div class="col-md-6 col-sm-6 col-lg-4 col-xl-4" style="margin-top: 15px;">
 						<a href="top_schools_of_bangalore.php">
 							<img src="img/top_schools_of_bangalore.png" class="img-fluid city_outline">
 						</a>
 					</div>
 
-					<div class="col-md-4 col-sm-6 col-12" style="margin-top: 15px;">
+					<div class="col-md-6 col-sm-6 col-lg-4 col-xl-4" style="margin-top: 15px;">
 						<a href="top_schools_of_delhi.php">
 							<img src="img/top_schools_of_delhi.png" class="img-fluid city_outline">
 						</a>
 					</div>
 
-					<div class="col-md-4 col-sm-6 col-12" style="margin-top: 15px;">
+					<div class="col-md-6 col-sm-6 col-lg-4 col-xl-4 " style="margin-top: 15px;">
 						<a href="top_schools_of_hyderabad.php">
 							<img src="img/top_schools_of_hyderabad.png" class="img-fluid city_outline">
 						</a>
 					</div>
 
-					<div class="col-md-4 col-sm-6 col-12" style="margin-top: 15px;">
+					<div class="col-md-6 col-sm-6 col-lg-4 col-xl-4" style="margin-top: 15px;">
 						<a href="top_schools_of_kolkata.php">
 							<img src="img/top_schools_of_kolkata.png" class="img-fluid city_outline">
 						</a>
 					</div>
 
-					<div class="col-md-4 col-sm-6 col-12" style="margin-top: 15px;">
+					<div class="col-md-6 col-sm-6 col-lg-4 col-xl-4" style="margin-top: 15px;">
 						<a href="top_schools_of_pune.php">	
 							<img src="img/top_schools_of_pune.png" class="img-fluid city_outline">
 						</a>
 					</div>
 
-					<div class="col-md-4 col-sm-6 col-12" style="margin-top: 15px;">
+					<div class="col-md-6 col-sm-6 col-lg-4 col-xl-4" style="margin-top: 15px;">
 						<a href="top_schools_of_lucknow.php">
 							<img src="img/top_schools_of_lucknow.png" class="img-fluid city_outline">
 						</a>
 					</div>
 
-					<div class="col-md-4 col-sm-6 col-12" style="margin-top: 15px;">
+					<div class="col-md-6 col-sm-6 col-lg-4 col-xl-4" style="margin-top: 15px;">
 						<a href="top_schools_of_ahmedabad.php">
 							<img src="img/top_schools_of_ahmedabad.png" class="img-fluid city_outline">
 						</a>
 					</div>
 
-					<div class="col-md-4 col-sm-6 col-12" style="margin-top: 15px;">
+					<div class="col-md-6 col-sm-6 col-lg-4 col-xl-4" style="margin-top: 15px;">
 						<a href="top_schools_of_jaipur.php">
 							<img src="img/top_schools_of_jaipur.png" class="img-fluid city_outline">
 						</a>
 						
 					</div>
 
-					<div class="col-md-4 col-sm-6 col-12" style="margin-top: 15px;">
+					<div class="col-md-6 col-sm-6 col-lg-4 col-xl-4" style="margin-top: 15px;">
 						<a href="top_schools_of_dehradun.php">
 							<img src="img/top_schools_of_dehradun.png" class="img-fluid city_outline">
 						</a>
 					</div>
 
-					<div class="col-md-4 col-sm-6 col-12" style="margin-top: 15px;">
+					<div class="col-md-6 col-sm-6 col-lg-4 col-xl-4" style="margin-top: 15px;">
 						<a href="top_schools_of_surat.php">
 							<img src="img/top_schools_of_surat.png" class="img-fluid city_outline">
 						</a>

@@ -6,7 +6,7 @@
 	<div class="container-fluid" style="background-image:url(img/background1.jpg); height: 200px; background-size: cover;
 	background-repeat: no-repeat; color: white; background-position-x: center; background-position-y: center; background-attachment: scroll; background-origin: initial; background-clip: initial; font-family: cursive; margin-top: 40px; ">
 		<div class="row">
-			<div class="col-md-12 col-xs-12 col-sm-12">
+			<div class="col-md-12 col-sm-12">
 				<h1 style="text-align: center;" >Guide your child to a better future</h1>
 			</div>
 		</div>
@@ -38,11 +38,14 @@
 		</center>
 		<br>
 
-		<div class="row">
-			<div class="col-md-12 col-sm-12 col-xs-12">
-				<img src="img/background.jpg" class="img-fluid">
-			</div>
+		<!-- School Image -->
+		<div class="container" style="background-image: url(img/background.jpg);height: 400px; background-size: cover;
+	background-repeat: no-repeat; color: white; background-position-x: center; background-position-y: center; background-attachment: scroll; background-origin: initial; background-clip: initial;">
+			
 		</div>
+		<!-- School Image -->
+
+		
 		<br>
 
 		<center>
@@ -64,8 +67,8 @@
 		<br>
 		<br>
 
-		<div class="details row" style="    border-radius: 2px; box-shadow: 1px 2px 4px 1px rgba(0, 0, 0, 0.2),0 2px 10px 0 rgba(0, 0, 0, 0.12) !important; margin: 0 0 30px; padding: 10px 20px 20px; overflow: hidden;">
-			<div class="col-md-12 col-xs-12 col-sm-12">
+		<div class="details row" style="    border-radius: 2px; box-shadow: 1px 2px 4px 1px rgba(0, 0, 0, 0.2),0 2px 10px 0 rgba(0, 0, 0, 0.12) !important; margin: 0 0 0px; padding: 10px 20px 20px; overflow: hidden;">
+			<div class="col-md-12 col-sm-12">
 				<h2 style="font-family: 'felipa',cursive; text-align: center;">
 					Basic Details About School
 				</h2>
